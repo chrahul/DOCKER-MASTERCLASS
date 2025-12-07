@@ -344,4 +344,3 @@ Industry reality
 
 
 
-I’m ready.
