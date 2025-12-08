@@ -328,5 +328,4 @@ Explore how the container sees the filesystem.
 ---
 
 
-Just say:
-**“Write Module 2”** or **“Convert to book format”**.
+
